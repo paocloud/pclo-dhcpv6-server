@@ -1,5 +1,5 @@
 [Unit]
-Description=ISC DHCP IPv4 server
+Description=ISC DHCP IPv6 server
 Documentation=man:dhcpd(8)
 Wants=network-online.target
 After=network-online.target
